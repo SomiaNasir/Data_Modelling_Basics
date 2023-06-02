@@ -1,5 +1,5 @@
 # Data Modelling 
-To understand how the basic data modelling works, this repo covers designing the relational database schema in Python.
+To understand how data modelling works, this repo covers designing the basic relational database schema in Python.
 
 ## Data Source
 [Chinook Data](https://github.com/w3c/csvw/tree/gh-pages/examples/tests/scenarios/chinook) [accessed on 02-June-2023]  
